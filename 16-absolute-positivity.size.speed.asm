@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 16-absolute-positivity - SIZE 8/8 - SPEED 34/36 --
 
     JUMP     c
 a:

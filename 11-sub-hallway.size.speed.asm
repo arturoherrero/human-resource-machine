@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 11-sub-hallway - SIZE 10/10 - SPEED 40/40 --
 
 a:
     INBOX   

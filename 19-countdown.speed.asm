@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 19-countdown - SIZE 16/10 - SPEED 79/82 --
 
     JUMP     d
 a:

@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 08-tripler-room - SIZE 6/6 - SPEED 24/24 --
 
 a:
     INBOX   

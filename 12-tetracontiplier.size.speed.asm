@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 12-tetracontiplier - SIZE 14/14 - SPEED 56/56 --
 
 a:
     INBOX   

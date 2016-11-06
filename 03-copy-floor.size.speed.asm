@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 03-copy-floor - SIZE 6/6 - SPEED 6/6 --
 
     COPYFROM 4
     OUTBOX  

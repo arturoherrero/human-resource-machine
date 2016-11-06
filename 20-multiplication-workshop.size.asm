@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 20-multiplication-workshop - SIZE 15/15 - SPEED 139/109 --
 
 a:
     INBOX   

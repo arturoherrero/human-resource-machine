@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 06-rainy-summer - SIZE 6/6 - SPEED 24/24 --
 
 a:
     INBOX   

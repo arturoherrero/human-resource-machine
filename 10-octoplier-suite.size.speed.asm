@@ -1,4 +1,5 @@
 -- HUMAN RESOURCE MACHINE PROGRAM --
+-- 10-octoplier-suite - SIZE 9/9 - SPEED 36/36 --
 
 a:
     INBOX   
