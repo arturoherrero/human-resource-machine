@@ -1,0 +1,35 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+-- 25-cumulative-countdown - SIZE 12/12 - SPEED 82/82 --
+
+a:
+    INBOX   
+    JUMPZ    d
+    COPYTO   0
+    COPYTO   1
+b:
+    BUMPDN   1
+    JUMPZ    c
+    ADD      0
+    COPYTO   0
+    JUMP     b
+c:
+    COPYFROM 0
+d:
+    OUTBOX  
+    JUMP     a
+
+
+DEFINE LABEL 0
+eJyzYGBgyPDedfRf0InzH8LPXW6LP3f5ctKRM2WpG/aVpS7cfCF5wnKtpI6Fd+PqZ88Jr5kZHpjTy+Ef
+0xTvF1gV72edFR6oHe8aIR9WkywbeiJNMQJoHMOfIoXwFUW5fX4lk1d6lq3e9aZi7/HempMXmhrOX6lq
+Pn9Fuv30xf2dB07u6dp8QKC7YEJWp0oUSN+LmScvvJ6xYsfrGY1znGYUTpw53TTNaYZsqP1MqeDHs2VD
+S5ZaZm5dE9+yYV1u3/8N4XVu2/STJuySCu7YKxbQtF82tOGAdvzFg3n9Fw/OXn/+0O5j5w9dusYwCkbB
+KMALALEucNc;
+
+DEFINE LABEL 1
+eJzTY2Bg0HbadkjbacO+i86Lthx3z+k94hFSk+GtmxAe+M4oNOi1gX/IV/Pb8SWTLyf1LKlMWbsHqIXh
+oGdOr210Ti+IzVLwzoiloHDi2oK6WYHFU1Z9Klu6zbhu84GGxs0HFFrX7pFuX7pNomPGWuGurJ6MrtDa
+jC6VqKxOZqeszndGIP0Lp6zd82LmlFWViyMb8pbbZH/f/NMKJO4+7Y1hz5w/Ngu2hNQ82VU8qWtP09z7
+e6atvrN3xlqGUTAKRgFVAACXfFUe;
+
+
